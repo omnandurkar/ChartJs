@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 - It is a very Interesting Library
 - You may use it for creating a very much intresting charts
+- A better way to represent data
